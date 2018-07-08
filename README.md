@@ -1,7 +1,7 @@
 # finalProject
 회원관리 부분(Member)
 
-Controller/Dao/vo: src/Member/
+Controller/Dao/vo: src/Member/ <br/>
 sql: Member.xml
 view: WebContent/member/
 
